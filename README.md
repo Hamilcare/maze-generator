@@ -1,2 +1,3 @@
 # maze-generator
-different kind of algorithm to generate maze
+different kind of algorithms to generate mazes
+gui with pygame
